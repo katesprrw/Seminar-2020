@@ -11,11 +11,11 @@
 Информация – это результат преобразования и анализа данных. Отличие информации от данных состоит в том, что данные – это фиксированные сведения о событиях и явлениях, которые хранятся на определенных носителях, а информация появляется в результате обработки данных при решении конкретных задач.
 
 Ссылки на данные на сайте-источнике:
-1)	https://trudvsem.ru/opendata?0 / https://test-opendata.trudvsem.ru/7710538364-graduates_by_specialty/data-20201225T224540-structure-20161130T143000.xml 
-2)	https://data.gov.ru/opendata/7710539135-trud 
+- https://trudvsem.ru/opendata?0 / https://test-opendata.trudvsem.ru/7710538364-graduates_by_specialty/data-20201225T224540-structure-20161130T143000.xml («Трудоустройство выпускников в разрезе специальностей»)
+- https://data.gov.ru/opendata/7710539135-trud («Трудоустройство выпускников учреждений профессионального образования»)
 
 Ссылка на данные на Hub of Data:
-• https://hubofdata.ru/dataset/employment_of_graduates 
+- https://hubofdata.ru/dataset/employment_of_graduates 
 
 4. Ограничения на материал, легальность
 
